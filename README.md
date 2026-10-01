@@ -9,7 +9,8 @@ This project demonstrates an AI-accelerated analytics approach to building execu
 
 ---
 ##📈📊 Dashboard Overview
-<img width="1670" height="917" alt="Financial project" src="https://github.com/user-attachments/assets/b74f95d4-0c4f-44e3-aab9-ce614cb77332" />
+<img width="1645" height="917" alt="FINANCIAL DASHBOARD" src="https://github.com/user-attachments/assets/33edf326-27f0-4561-87df-64cdd1e3a546" />
+
 
 ---
 ## 📊 Key Performance Indicators (KPIs)
